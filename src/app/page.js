@@ -1,9 +1,8 @@
-import Image from "next/image";
-import Home from "@/components/Home";
+import Home from '@/components/Home';
 export default function App() {
   return (
-    <div>
+    <main>
       <Home />
-    </div>
+    </main>
   );
 }
