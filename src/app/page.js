@@ -1,8 +1,8 @@
-import Home from '@/components/Home';
+import Auth from '@/components/Auth';
 export default function App() {
   return (
     <main>
-      <Home />
+      <Auth />
     </main>
   );
 }
